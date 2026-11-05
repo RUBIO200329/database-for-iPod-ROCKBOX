@@ -1,5 +1,6 @@
 <img width="320" height="320" alt="rockDB-nanoTOOL" src="https://github.com/user-attachments/assets/1a7cfcec-0494-4014-b087-6f996c20da6b" />
 
+
 🇪🇸 Español
 
 Generación de base de datos: Compila y ejecuta la herramienta oficial de Rockbox para crear los archivos tagcache (.tcd) compatibles con el iPod nano 3G. 
