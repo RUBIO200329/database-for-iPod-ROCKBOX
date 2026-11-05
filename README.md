@@ -71,6 +71,8 @@ Release NOTES;
 Only tested in iPod Nano 3rd GEN
 ::::::::::::::::::::::::::::::::::::
 due the poor CPU and RAM capacity of this device
+::::::::::::::::::::::::::::::::::::
+ONLY TESTED ON LINUX
 ----------------------------------------------------------------------------------------------
 
 
