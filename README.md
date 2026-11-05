@@ -15,7 +15,7 @@ Descarga del repositorio de GitHub la fuente de Rockbox y compila el ejecutable 
 Copia de música opcional: 
 Permite sincronizar directorios locales de música directamente hacia la carpeta /Music del iPod usando rsync.   
 
-Reescalado de carátulas: Ç
+Reescalado de carátulas:
 Incluye una opción (--art) para ajustar el tamaño de las imágenes ID3/mjpeg incrustadas en los MP3 mediante ffmpeg sin alterar el audio.   
 
 Contención de errores y respaldo: 
