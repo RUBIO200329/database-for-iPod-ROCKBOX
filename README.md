@@ -1,4 +1,4 @@
-<img width="640" height="320" alt="rockDB-nanoTOOL" src="https://github.com/user-attachments/assets/1a7cfcec-0494-4014-b087-6f996c20da6b" />
+<img width="540" height="330" alt="rockDB-nanoTOOL" src="https://github.com/user-attachments/assets/1a7cfcec-0494-4014-b087-6f996c20da6b" />
 
 
 🇪🇸 Español
