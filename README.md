@@ -62,8 +62,8 @@ Scans the storage structure to count supported audio files (MP3, FLAC, M4A, etc.
 Safe Ejection: 
 Provides an optional flag (--eject) to unmount the partition and safely power off the device using udisksctl.   
 
-Dry Run Support: S
-upports a simulation option (--dry-run) to preview commands and actions without modifying the iPod's memory.   
+Dry Run Support: 
+Supports a simulation option (--dry-run) to preview commands and actions without modifying the iPod's memory.   
 
 
 ----------------------------------------------------------------------------------------------
