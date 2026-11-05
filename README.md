@@ -66,10 +66,12 @@ Dry Run Support: S
 upports a simulation option (--dry-run) to preview commands and actions without modifying the iPod's memory.   
 
 
-
+----------------------------------------------------------------------------------------------
 Note -----> Only tested in iPod Nano 3rd GEN, due the poor CPU and RAM capacity of this device
+----------------------------------------------------------------------------------------------
 
 
+**********************************************************************************************
 CREDITS TO:
 
 ROCKBOX PORT;
@@ -77,3 +79,4 @@ https://github.com/giek2000/Nano3Rockbox
 
 CLAUDE and GEMINI;
 For helping to make script and solve issues
+***********************************************************************************************
