@@ -44,7 +44,7 @@ Dry Run Support: Supports a simulation option (--dry-run) to preview commands an
 
 
 
-Only tested in iPod Nano 3rd GEN, due the poor CPU and RAM capacity of this device
+Note -----> Only tested in iPod Nano 3rd GEN, due the poor CPU and RAM capacity of this device
 
 
 CREDITS TO:
