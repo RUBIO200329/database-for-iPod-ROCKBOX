@@ -69,7 +69,7 @@ upports a simulation option (--dry-run) to preview commands and actions without 
 ----------------------------------------------------------------------------------------------
 Release NOTES;
 Only tested in iPod Nano 3rd GEN
-::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::
 due the poor CPU and RAM capacity of this device
 ----------------------------------------------------------------------------------------------
 
